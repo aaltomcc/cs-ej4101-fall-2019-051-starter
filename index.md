@@ -1,4 +1,13 @@
-<h1 style='color:blue;'>About</h1>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {text-align: center}
+p {text-align: justify}
+</style>
+</head>
+<body>
+<h1>About</h1>
 <div>
 	<p>
 	My name is Loc Hoang. I am following Bachelor of Engineer Degree in Information Technology.
@@ -12,3 +21,5 @@
 <img src="https://cdn.pixabay.com/photo/2018/06/27/12/55/artificial-neural-network-3501528_1280.png" alt="Machine Learning">
 <h2>Diary</h2>
 <p><a href="https://www.w3schools.com/html/">Visit Diary page</a></p>
+</body>
+</html>
