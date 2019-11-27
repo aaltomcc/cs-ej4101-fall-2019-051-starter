@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -20,6 +19,6 @@ p {text-align: justify}
 </div>
 <img src="https://cdn.pixabay.com/photo/2018/06/27/12/55/artificial-neural-network-3501528_1280.png" alt="Machine Learning">
 <h2>Diary</h2>
-<p><a href="https://www.w3schools.com/html/">Visit Diary page</a></p>
+<p><a href="diary-051.md">Visit Diary page</a></p>
 </body>
 </html>
