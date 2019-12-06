@@ -1,7 +1,7 @@
 
 # This course
 
-<p style="text-align: center">
+<p style="text-align: justify">
 The course - Introduce to DevOps as its name, provides an introduction to DevOps by covering both
 related technologies and software development pratices.	
 Through this course, I expect to learn something new:
@@ -15,7 +15,7 @@ Through this course, I expect to learn something new:
 </p>
 
 # Learning
-<p style="text-align: center">
+<p style="text-align: justify">
 * DevOps is a set of pratices intended to reduce the time beween commiting a change to a system and the change being placed into normal production, while ensuring high quality. A process incluses: coding,
 building, testing, packaging, releasing, configuring and monitoring.
 ![DepOps lifecycle](https://www.guru99.com/images/2-2017/092917_0812_DevOpsTrain2.png)
