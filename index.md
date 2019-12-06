@@ -8,7 +8,7 @@ p {text-align: justify}
 </head>
 <body>
 <h1>Hello! Welcome to the CS-E4101 Introduction to DevOps course!</h1>
-<h2>About</h1>
+<h2>About</h2>
 <div>
 	<p>
 	My name is Loc Hoang. I am following Bachelor of Engineer Degree in Information Technology.
