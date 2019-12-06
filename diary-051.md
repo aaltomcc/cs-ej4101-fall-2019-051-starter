@@ -1,7 +1,6 @@
 
 # This course
 
-<p style="text-align: justify">
 The course - Introduce to DevOps as its name, provides an introduction to DevOps by covering both
 related technologies and software development pratices.	
 Through this course, I expect to learn something new:
@@ -12,10 +11,10 @@ Through this course, I expect to learn something new:
 * Stages of DepOps.
 * DevOps tools involved development and delivery process
 * Learn to use some tools involved DevOps
-</p>
+
 
 # Learning
-<p style="text-align: justify">
+
 * DevOps is a set of pratices intended to reduce the time beween commiting a change to a system and the change being placed into normal production, while ensuring high quality. A process incluses: coding,
 building, testing, packaging, releasing, configuring and monitoring.
 ![DepOps lifecycle](https://www.guru99.com/images/2-2017/092917_0812_DevOpsTrain2.png)
@@ -31,4 +30,4 @@ building, testing, packaging, releasing, configuring and monitoring.
   * Continous Delivery: Continuous delivery is an extension of continuous integration. When executing continuous delivery, you add additional automation and testing so that you don’t just merge the code with the main code line frequently, but you get the code nearly ready to deploy with almost no human intervention.
   * Continous Deployment: s the most advanced evolution of continuous delivery. It’s the practice of deploying all the way into production without any human intervention. The code release typically only goes to a small percentage of users and there’s an automated feedback loop that monitors quality and usage before the code is propagated further.
 * It will build the fundamental knowledge for me to learn and take part in another courses and projects.
-</p>		
+		
