@@ -2,11 +2,13 @@
 <head>
 <style>
 h1 {text-align: center}
+h2 {text-align: center}
 p {text-align: justify}
 </style>
 </head>
 <body>
-<h1>About</h1>
+<h1>Hello! Welcome to the CS-E4101 Introduction to DevOps course!</h1>
+<h2>About</h1>
 <div>
 	<p>
 	My name is Loc Hoang. I am following Bachelor of Engineer Degree in Information Technology.
